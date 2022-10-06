@@ -1,3 +1,11 @@
+# 1.0.0 (2022-10-06)
+
+
+### Features
+
+* adding new feature ([becf68a](https://github.com/cervantes007G/calculator/commit/becf68a4ad4e4d8aeb9c12d76aec535c5fb54ed2))
+* Initial Commit ([b0f5bf6](https://github.com/cervantes007G/calculator/commit/b0f5bf66963985ddf600650087db361f52a61cfd))
+
 # [1.3.0](https://github.com/cervantes007G/test2/compare/v1.2.0...v1.3.0) (2022-10-06)
 
 
