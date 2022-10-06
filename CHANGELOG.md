@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/cervantes007G/calculator/compare/v1.0.1...v1.1.0) (2022-10-06)
+
+
+### Bug Fixes
+
+* arreglar silla ([a27de9b](https://github.com/cervantes007G/calculator/commit/a27de9be9bbba20f95663a151954f6753b349fc9))
+
+
+### Features
+
+* adicionar sillas ([fc16ea0](https://github.com/cervantes007G/calculator/commit/fc16ea0921c7e6e9223138024cd10026995e8db5))
+* pintar sillas ([7abdcab](https://github.com/cervantes007G/calculator/commit/7abdcab6a215408c322010bd9899b426fe7e93a6))
+
 ## [1.0.1](https://github.com/cervantes007G/calculator/compare/v1.0.0...v1.0.1) (2022-10-06)
 
 
