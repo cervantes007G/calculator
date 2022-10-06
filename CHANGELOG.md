@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/cervantes007G/calculator/compare/v1.0.0...v1.0.1) (2022-10-06)
+
+
+### Bug Fixes
+
+* remove line ([aa29a14](https://github.com/cervantes007G/calculator/commit/aa29a1423bdbb4a12b2a316140e658af4201ac95))
+
 # 1.0.0 (2022-10-06)
 
 
